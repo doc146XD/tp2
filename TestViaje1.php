@@ -1,4 +1,5 @@
 <?php
+// agregar variable responsable 
 include "Pasajero1.php";
 include "pruba.php";
 include "Responsable1.php";
